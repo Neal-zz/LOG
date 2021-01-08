@@ -5,6 +5,7 @@
 
 - [环境搭建](#环境搭建)
   - [下载设备驱动程序](#下载设备驱动程序)
+  - [VS 环境配置](#vs-环境配置)
 - [示例](#示例)
   - [Demo1](#demo1)
   - [注意点](#注意点)
@@ -19,6 +20,10 @@
 ## 下载设备驱动程序
 
 https://support.3dsystems.com/s/article/Downloads?language=en_US 从这里可以下载**设备驱动**和 **OpenHaptics**。
+
+## VS 环境配置
+
+![handsome](./img/neal.jpg)
 
 # 示例
 
